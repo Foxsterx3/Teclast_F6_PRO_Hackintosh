@@ -10,9 +10,7 @@
 
 ### I am not responsible for any damages you may cause
 
-- Complete EFI packs are available in the releases page.
 - I will try my best to keep the repo updated with the latest kexts and OpenCore version.
-- Please **do not clone or download** the main branch for daily use: it may include **unstable code** just because it is my repository.
 - This EFI is configured only for Catalina for now.
 - With every EFI update you retrieve from here please remember to go through the post install guide.
 - Is the first time that i do a hackintosh (all in 5 days, i really need to sleep).
@@ -36,8 +34,8 @@
 | Audio Recording                      | ✅   | `AppleALC.kext` with Layout ID = 18   |
 | Audio Playback                       | ✅   | `AppleALC.kext` with Layout ID = 18   |
 | Automatic Headphone Output Switching | ✅   | `AppleALC.kext` with Layout ID = 18   |
-| Audio Jack*                          | ✅   | `AppleALC.kext` with Layout ID = 18   |
-| *(Can't test microphone Jack because is broken on my laptop)                        |
+| Audio Jack (Can't test microphone Jack because is broken on my laptop) | ✅   | `AppleALC.kext` with Layout ID = 18   |
+
   
 > ### Power, Charge, Sleep and Hibernation
 
@@ -62,7 +60,7 @@
 | :----------------------------------- | ------ | ------------------- |
 | Brightness Adjustments | ✅  | `WhateverGreen.kext`, `SSDT-PNLF.aml` and `BrightnessKeys.kext`|
 | TouchScreen            | ❌  | `VoodooI2C.kext`, `VoodooI2CGoodix.kext` I found the kext but need to edit the SSDT. |
-| Trackpad               | 🟨  | `VoodooI2C.kext`, `VoodooI2CHID.kext` sometimes works sometimes doesn't work (when it works, DON'T open Trackpad settings |
+| Trackpad               | 🟨  | `VoodooI2C.kext`, `VoodooI2CHID.kext` sometimes works sometimes doesn't work (when it works, **DON'T open Trackpad settings**) |
 | Built-in Keyboard      | ✅  | `VoodooPS2Controller.kext` |
 | Multimedia Keys        | ❓  | `BrightnessKeys.kext` |
 
