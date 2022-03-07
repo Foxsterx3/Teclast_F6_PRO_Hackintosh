@@ -93,7 +93,7 @@ Read these before you start:
 <br>
 
 - A macOS machine(optional): to create the macOS installer.
-- Flash drive, 12GB or more, for the above purpose.  
+- Flash drive, 128GB or more, for the above purpose.  
 - [ProperTree](https://github.com/corpnewt/ProperTree) if you need to edit plist files.  
 - [MaciASL](https://github.com/acidanthera/MaciASL), for patching ACPI tables and editing ACPI patches.
 - [MountEFI](https://github.com/corpnewt/MountEFI) to quickly mount EFI partitions.  
