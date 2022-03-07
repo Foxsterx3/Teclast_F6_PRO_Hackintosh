@@ -68,7 +68,7 @@
 
 | Feature                              | Status | Dependency          |
 | :----------------------------------- | ------ | ------------------- |
-| iCloud, iMessage, FaceTime           | ❓   | not tested bit i set the Valid SMBIOS  |
+| iCloud, iMessage, FaceTime           | ❓   | not tested but i set the Valid SMBIOS  |
 | AirDrop                              | ❓   | Not tested  |
 | Time Machine                         | ❓   | Not tested  |
 
