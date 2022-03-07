@@ -4,7 +4,7 @@
 
 [![Teclast](https://img.shields.io/badge/Teclast-F6%20PRO-blue)](https://www.teclast.com/en/zt/nb/F6Pro/)
 [![MacOS Catalina](https://img.shields.io/badge/Catalina-10.15-red.svg)](https://www.apple.com/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.1-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.8-blue)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 
 ## READ THE ENTIRE README.MD BEFORE YOU START
 
