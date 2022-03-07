@@ -70,9 +70,9 @@
 
 | Feature                              | Status | Dependency          |
 | :----------------------------------- | ------ | ------------------- |
-| iCloud, iMessage, FaceTime           | ✅   | Whitelisted Apple ID, Valid SMBIOS  |
+| iCloud, iMessage, FaceTime           | ❓   | not tested bit i set the Valid SMBIOS  |
 | AirDrop                              | ❓   | Not tested  |
-| Time Machine                         | ✅   | Native  |
+| Time Machine                         | ❓   | Not tested  |
 
 
 Read these before you start:
