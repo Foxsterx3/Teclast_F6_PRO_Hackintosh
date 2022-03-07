@@ -109,9 +109,9 @@ Read these before you start:
 | Teclast F6 Pro | Hardware                 | 
 | :--------------|------------------------- |
 | CPU            |  Intel m3-7Y30           | 
-| SSD            | 128GB                    | 
-| Display        | 13' IPS (1920x1080)      |  
-| WiFi & BT      | Intel Wireless-AC 3165   |
+| SSD            |  128 GB                  | 
+| Display        |  13' IPS (1920x1080)     |  
+| WiFi & BT      |  Intel Wireless-AC 3165  |
 
 </details>
 
