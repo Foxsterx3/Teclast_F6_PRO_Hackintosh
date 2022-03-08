@@ -13,7 +13,7 @@
 - I will try my best to keep the repo updated with the latest kexts and OpenCore version.
 - This EFI is configured only for Catalina for now.
 - With every EFI update you retrieve from here please remember to go through the post install guide.
-- Is the first time that i do a hackintosh (all in 5 days, i really need to sleep).
+- Is the first time that i do a hackintosh (all in 5 days, i really need to sleep), So for any advices or contributions are welcome here!. 
 
 #### Status : WIP
 
