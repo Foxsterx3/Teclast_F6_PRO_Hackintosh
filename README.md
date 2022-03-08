@@ -5,6 +5,7 @@
 [![Teclast](https://img.shields.io/badge/Teclast-F6%20PRO-blue)](https://www.teclast.com/en/zt/nb/F6Pro/)
 [![MacOS Catalina](https://img.shields.io/badge/Catalina-10.15-red.svg)](https://www.apple.com/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.8-blue)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
+[![Donate](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange.svg)](https://www.buymeacoffee.com/Foxsterx3)
 
 ## READ THE ENTIRE README.MD BEFORE YOU START
 
