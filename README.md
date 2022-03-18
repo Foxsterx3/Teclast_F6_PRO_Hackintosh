@@ -69,10 +69,9 @@
 
 | Feature                              | Status | Dependency          |
 | :----------------------------------- | ------ | ------------------- |
-| iCloud, iMessage, FaceTime           | ❓   | not tested but i set the Valid SMBIOS  |
+| iCloud, iMessage, FaceTime           | ✅   | it works, take a look about this guide using MacBook10,1 as smbios https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html |
 | AirDrop                              | ❓   | Not tested  |
 | Time Machine                         | ❓   | Not tested  |
-
 
 Read these before you start:
 
